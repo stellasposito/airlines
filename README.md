@@ -2,7 +2,7 @@
 
 Neste dataset, realizei as seguintes etapas: 
 ## **Pré-processamento com tratamento de nulos**
-* Neste dataset, algumas colunas possuíam muitos valores nulos. Portanto, foi necessário substituir os dados numéricos pela média e os categóricos pela moda.
+* Neste dataset, algumas colunas possuíam muitos valores nulos. Portanto, foi necessário substituir os dados numéricos pela média e os categóricos pela moda. Essa decisão foi tomada devido às futuras análises para este dataset.
 
 ![alt text](nulos.png)
 
