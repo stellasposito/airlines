@@ -1,4 +1,4 @@
-# Análise de Sentimento em Viagens Aéreas de diferentes Companhias ✈️
+# Análise de Sentimento em Viagens Aéreas de Diferentes Companhias ✈️
 
 Neste dataset, realizei as seguintes etapas: 
 - [x] Pré-processamento com tratamento de nulos
