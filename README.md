@@ -1,6 +1,7 @@
 # *Análise de Sentimento em Viagens Aéreas de Diferentes Companhias* ✈️
 
-Neste dataset, realizei as seguintes etapas: 
+Este é um dataset que contém informações de várias Companhias Aéreas pelo mundo, com avaliações de passageiros para: o conforto do banco, comidas e bebidas, serviço para as cabines, wifi e entretenimento, entre outros. A intenção deste case é analisar como as avaliações por texto e por nota dos passageiros pode impactar a nota geral de cada companhia aérea. Com essa análise, as companhias aéreas podem verificar os pontos de melhoria para cada serviço oferecido aos seus passageiros.
+
 ## **Pré-processamento com tratamento de nulos**
 * Neste dataset, algumas colunas possuíam muitos valores nulos. Portanto, foi necessário substituir os dados numéricos pela média e os categóricos pela moda. Essa decisão foi tomada devido às futuras análises para este dataset.
 
