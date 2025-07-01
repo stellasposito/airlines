@@ -31,6 +31,8 @@ Este é um dataset que contém informações de várias Companhias Aéreas pelo 
 
 ## **Análise do impacto de atrasos no NPS (Net Promoter Score, métrica utilizada para avaliar a recomendação/satisfação dos clientes)**
 
+![image](https://github.com/user-attachments/assets/713716c2-3482-4a1b-8b4d-e122ca763d85)
+
 * Para esta etapa, foi necessário criar uma nova coluna que indica se a Companhia Aérea atrasa ou não, tudo isso dependendo das palavras presentes nas avaliações que resultaram em sentimentos positivos, negativos ou neutros sobre a empresa. 
 
 * Após a criação desta coluna, o impacto do atraso foi analisado quando comparado ao valor do NPS de cada Companhia Aérea. 
